@@ -15,7 +15,7 @@ Using the [AdventureWorksDW database](https://learn.microsoft.com/en-us/sql/samp
 ![image](https://github.com/user-attachments/assets/fa23451c-ba46-4457-902c-953232a11e9c)
 
 
-## Project: Top Data Breaches (2004-2021) Analysis
+## Project: Major Data Breaches (2004-2021) Analysis
 Using [this dataset from Kaggle](https://www.kaggle.com/datasets/hishaamarmghan/list-of-top-data-breaches-2004-2021), I created a visual analysis of major data breaches from 2004 to 2021 to further examine the trends of how, why, and when such breaches occurred, which also assists in finding preventative measures that could have been taken to ensure the data was secured.
 
 ![image](https://github.com/user-attachments/assets/8eb39c54-d0e4-487e-9f79-bfa7bf7675b5)
