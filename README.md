@@ -16,8 +16,9 @@ Using the [AdventureWorksDW database](https://learn.microsoft.com/en-us/sql/samp
 
 
 ## Project: Top Data Breaches (2004-2021) Analysis
-Using [this dataset from Kaggle](https://www.kaggle.com/datasets/hishaamarmghan/list-of-top-data-breaches-2004-2021), I created a visual analysis of major data breaches from 2004 to 2021 to further examine the trends of how, why, and when such breaches occurred, as well as which preventative measures could have been taken to ensure the data was secured.
+Using [this dataset from Kaggle](https://www.kaggle.com/datasets/hishaamarmghan/list-of-top-data-breaches-2004-2021), I created a visual analysis of major data breaches from 2004 to 2021 to further examine the trends of how, why, and when such breaches occurred, which also assists in finding preventative measures that could have been taken to ensure the data was secured.
 
-**picture here - WIP**
+![image](https://github.com/user-attachments/assets/13210610-2e6a-4732-8f38-4faa228b4d0d)
+
 
 ## Project: Credit Card Fraud/Anomaly Detection
